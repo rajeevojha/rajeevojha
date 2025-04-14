@@ -13,6 +13,6 @@ Building cool stuff with **Python**, **Node.js**, **AI**, and **cloud**. Diving 
 
 ## Connect
 - 📧 [LinkedIn](https://linkedin.com/in/rajeevojha)
--  [email](rajeevrojha@gmail.com)
+- ✉️ [email](rajeevrojha@gmail.com)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
