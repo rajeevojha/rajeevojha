@@ -4,7 +4,7 @@ Building cool stuff with **Python**, **Node.js**, **AI**, and **cloud**. Diving 
 ## What’s Up?
 - 🛠️ Crafting AI tools like Jupyter AI and Runway prototypes
 - ☁️ Cloud pro: AWS, GCP, Terraform
-- 📊 Data nerd: MongoDB, Python pandas, sales analytics, and don't forget DB2 IDMS SQL Server
+- 📊 Data nerd: MongoDB, Python pandas, sales analytics, and of cource  DB2 IDMS SQL Server...
 - 🌐 Exploring Node.js React
 
 ## Featured Projects
