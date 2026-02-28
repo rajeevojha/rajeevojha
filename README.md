@@ -8,7 +8,7 @@ Building cool stuff with **Python**, **Node.js**, **AI**, and **cloud**. Diving 
 - 🌐 Exploring Node.js React
 
 ## Featured Projects
-- [AI Adventures](https://github.com/rajeevojha/ai-adventures-2025): AI experiments with healthcare flair
+- [AI Agents](https://github.com/rajeevojha/goal-based-ai-agent): AI agent experiments (Agent vs Automation)
 - [More soon!](#)
 
 ## Connect
