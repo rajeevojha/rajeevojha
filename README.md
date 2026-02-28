@@ -1,11 +1,11 @@
 # Yo, I’m Rajeev Ojha! 🚀
-Building cool stuff with **Python**, **Node.js**, **AI**, and **cloud**. Diving into **healthcare tech** and data. Job hunting for dev, data, or cloud roles—let’s chat!
+Building cool stuff with **Python**, **Node.js**, **AI**, and **cloud**. Diving into **healthcare tech** and data. let’s chat!
 
 ## What’s Up?
 - 🛠️ Crafting AI tools like Jupyter AI and Runway prototypes
-- ☁️ Cloud pro: AWS, GCP, Terraform (cert-ready!)
-- 📊 Data nerd: MongoDB, Python pandas, sales analytics
-- 🌐 Exploring Node.js and healthcare APIs
+- ☁️ Cloud pro: AWS, GCP, Terraform
+- 📊 Data nerd: MongoDB, Python pandas, sales analytics, and don't forget DB2 IDMS SQL Server
+- 🌐 Exploring Node.js React
 
 ## Featured Projects
 - [AI Adventures](https://github.com/rajeevojha/ai-adventures-2025): AI experiments with healthcare flair
